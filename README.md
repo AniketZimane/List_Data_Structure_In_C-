@@ -25,14 +25,12 @@ Navigate to the directory where your Executev1.cpp file is located.
 
 Compile the code using the following command:
 
-bash
-Copy code
+Copy code run the below code statment in your compiler when we compiling code first time
 g++ -std=c++17 -o Executev1 Executev1.cpp (ExecuteV1 is sample file here where i am using that header file and performing operation you can use your file name here)
 Step 3: Run the Program
 After successful compilation, you can run the program with the following command:
 
-bash
-Copy code
+Copy code and run the below code statement 
 ./Executev1 (you can you your file name here )
 Notes
 Make sure all required header files are in the same directory or specified in your code.
